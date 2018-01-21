@@ -1,5 +1,4 @@
-#include <stdio.h>  
-  
+#include <stdio.h> 
 int main() {  
     int counter,n; 
     scanf("%d",&n);
