@@ -11,6 +11,5 @@ int main() {
    printf("%s",s1);
    else 
     printf("%s",s2);
-   else
     return 0;
 }
